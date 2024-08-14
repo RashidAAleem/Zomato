@@ -1,0 +1,252 @@
+.container-fluid {
+    margin: auto;
+    height: 2000px;
+    width:1280px;
+}
+
+header {
+    width: 1280px;
+    overflow: hidden;
+    margin: auto;
+    background-color: rgb(255, 255, 255);
+}
+
+.logo {
+    float: left;
+    margin-left: 100px;
+    margin-top: 30px;
+    width: 200px;
+}
+
+.placeholder {
+    position: absolute;
+    margin-left: 295px;
+    width: auto;
+}
+
+.searchbar {
+    float: left;
+}
+
+.locationbar {
+
+    width: 200px;
+}
+
+.DROPDOWN {
+    position: absolute;
+    margin-top: 45px;
+    margin-left: 500px;
+    width: 2px;
+    border: none;
+}
+
+.divider {
+    position: absolute;
+    margin-left: 525px;
+    margin-top: 33px;
+}
+
+ul li {
+    float: left;
+    list-style: none;
+    margin-left: 50px;
+    margin-top: 30px;
+    color: black;
+    font-weight: 400;
+}
+
+.one {
+    float: left;
+    margin-left: 550px;
+}
+
+p {
+    float: right;
+    margin-right: 900px;
+    margin-top: 20px;
+    color: black;
+
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+.box1,
+.box2,
+.box3 {
+    float: left;
+    margin-top: 80px;
+    border: rgb(255, 50, 50) solid 3px;
+    border-top-style: none;
+    border-right-style: none;
+    border-bottom-style: solid;
+    border-left-style: none;
+    width: 60px;
+    text-align: center;
+    height: 50px;
+    margin-left: 80px;
+    margin-top: 30px;
+    color: red;
+}
+
+hr {
+    width: 1380px;
+    margin: auto;
+    margin-top: 20px;
+}
+
+#box1p {
+    float: left;
+    color: black;
+}
+
+h2 {
+    font-weight: 400;
+    color: rgb(86, 79, 79);
+    margin-top: 35px;
+    font-size: 20px;
+    margin-left: 10PX;
+
+}
+
+.text {
+    width: 157px;
+    height: 80px;
+    border: rgb(255, 50, 50) solid 3px;
+    border-top-style: none;
+    border-right-style: none;
+    border-bottom-style: solid;
+    border-left-style: none;
+
+
+}
+
+.collections {
+    margin: auto;
+    width: 1280px;
+    height: auto;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    margin-top: 20px;
+    margin-left: 70px;
+    font-size: 33px;
+    float: left;
+}
+
+.PARA1 {
+    float: left;
+    width: 1280PX;
+    margin-left: 70PX;
+}
+
+span {
+    color: rgb(255, 50, 50);
+}
+
+.collection1 {
+    float: left;
+    margin-left: 60px;
+}
+
+.collection2,
+.collection3,
+.collection4 {
+    float: left;
+    margin-left: 1PX;
+}
+
+button {
+    float: left;
+    border: 2px solid lightgray;
+    color: rgb(139, 138, 138);
+    border-radius: 5px;
+    margin-left: 10px;
+    margin-top: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+button:hover {
+    color: white;
+    background-color: gray;
+    transition: 1s;
+}
+
+button1 {
+    float: left;
+    border: 2px solid lightgray;
+    color: rgb(139, 138, 138);
+    border-radius: 5px;
+    margin-left: 60px;
+}
+
+.buttons {
+    margin-left: 60px;
+}
+
+.foods{
+    margin-left: 60px;
+    align-content: center;
+    float: left;
+}
+h6{
+    display: flex;
+    flex-direction: column;
+    float: left;
+    margin-left: 60px;
+    letter-spacing:2px;
+    padding-right: 30px;
+    margin-top: 10px;
+    
+}
+
+img{
+    float: left;
+}
+#two{
+    display: flex;
+    flex-direction: row;
+    float: left;
+    margin-left: 25px;
+    margin-top: 10px;
+
+}
+#discript{
+    flex-direction:row;
+    float: left;
+    margin-left:60px;
+    margin-top: 0px;
+    width: 1280px;
+    color: rgb(144, 144, 144);
+}
+#order{
+    margin-top:0px;
+    margin-left: 0px;
+}
+.footer{
+    width:1280px;
+    height: 120px;
+    
+}
+ol li{
+    display: flex;
+    flex-direction: row;
+    margin-left:60px;
+    list-style:none;
+    margin-top:10px;
+}
+.ZOMAVERSE{
+   display: flex;
+    flex-direction:row;
+}
+.insporation{
+    width:1280px;
+    height:200px;
+    float: left;
+}
+
